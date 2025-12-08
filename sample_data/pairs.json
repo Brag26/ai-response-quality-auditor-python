@@ -1,0 +1,12 @@
+[
+  {
+    "id": "PAIR-001",
+    "prompt": "What is Apify?",
+    "response": "Apify is a cloud automation platform."
+  },
+  {
+    "id": "PAIR-002",
+    "prompt": "What is a REST API?",
+    "response": "It allows systems to communicate over HTTP."
+  }
+]

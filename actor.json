@@ -1,0 +1,7 @@
+{
+  "actorSpecification": 1,
+  "name": "ai-response-quality-auditor-python",
+  "title": "AI Response Quality Auditor (Python)",
+  "version": "1.0",
+  "buildTag": "latest"
+}
