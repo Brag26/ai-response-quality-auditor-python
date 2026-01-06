@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "project": "ironsight",
+    "schema_version": "1.0",
+    "rubric": "default_quality_v1",
+    "domain": "general",
+    "language": "en"
+  },
+  "items": [
+    {
+      "id": "sample-001",
+      "prompt": "Explain what an API is.",
+      "response": "An API allows applications to communicate with each other.",
+      "task_type": "explanation",
+      "audience": "general",
+      "constraints": {
+        "max_length": 150,
+        "tone": "neutral"
+      }
+    }
+  ]
+}
